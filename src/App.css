@@ -784,12 +784,6 @@ form {
 }
 
 /* ---------- Reused classes (defensive, covers variations) ---------- */
-.complaints-table {
-  /* alias */
-}
-.complaint-table {
-  /* already styled via .table selectors */
-}
 
 /* ---------- ACCESSIBILITY / FOCUS ---------- */
 button:focus,
