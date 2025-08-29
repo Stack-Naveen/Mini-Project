@@ -1,0 +1,38 @@
+/* .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #222;
+  padding: 12px 20px;
+  color: #fff;
+}
+
+.navbar-left h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.welcome {
+  font-size: 16px;
+  color: #ddd;
+}
+
+.logout-btn {
+  background-color: crimson;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background-color: darkred;
+}
+ */

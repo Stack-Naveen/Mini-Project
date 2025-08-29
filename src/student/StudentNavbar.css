@@ -1,0 +1,36 @@
+/* .student-navbar {
+  background-color: #007bff;
+  color: white;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.student-navbar h2 {
+  margin: 0;
+}
+
+.student-navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.student-navbar .welcome {
+  font-weight: 600;
+}
+
+.student-navbar .logout-btn {
+  background: #e74c3c;
+  border: none;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.student-navbar .logout-btn:hover {
+  background: #c0392b;
+}
+ */

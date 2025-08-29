@@ -1,0 +1,227 @@
+/* Reset unwanted default spacing */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden; 
+}
+ */
+/* Background with animated gradient */
+/* .login-container {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(135deg, #2c3e50, #4ca1af, #6a11cb, #2575fc);
+  background-size: 400% 400%;
+  animation: gradientShift 12s ease infinite;
+} */
+
+/* Smooth moving gradient */
+/* @keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+ */
+/* College Banner */
+/* .college-header {
+  background: linear-gradient(90deg, #003366, #00509e, #007bff);
+  color: white;
+  width: 100%;
+  padding: 22px 15px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.college-header h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.college-header p {
+  margin: 5px 0;
+  font-size: 15px;
+}
+
+.college-header span {
+  font-size: 13px;
+  font-style: italic;
+  color: #e0e0e0;
+}
+ */
+/* Main Login Box */
+/* .login-box {
+  background: #ffffffee;
+  padding: 40px;
+  border-radius: 14px;
+  margin: 40px auto;
+  text-align: center;
+  width: 90%;
+  max-width: 900px;
+  box-shadow: 0px 12px 28px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  animation: fadeUp 0.7s ease;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.login-box h2 {
+  margin-bottom: 30px;
+  color: #222;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+ */
+/* Role Selection */
+/* .role-selection {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.role-card {
+  background: linear-gradient(145deg, #f9f9f9, #ffffff);
+  border-radius: 14px;
+  padding: 30px 20px;
+  width: 280px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  border: 2px solid transparent;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+.role-card:hover {
+  transform: translateY(-6px);
+  border-color: #6a11cb;
+  box-shadow: 0 12px 24px rgba(0,0,0,0.25);
+  background: linear-gradient(145deg, #eef5ff, #ffffff);
+}
+
+.role-icon {
+  font-size: 45px;
+  margin-bottom: 12px;
+}
+
+.role-card h3 {
+  margin: 8px 0;
+  color: #222;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.role-card p {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+  min-height: 40px;
+}
+
+.role-btn {
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  border: none;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: bold;
+}
+
+.role-btn:hover {
+  background: linear-gradient(90deg, #0056b3, #0094cc);
+  transform: scale(1.05);
+}
+ */
+/* Login Form */
+/* .login-form {
+  text-align: left;
+  animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0; transform: translateY(15px);}
+  to {opacity: 1; transform: translateY(0);}
+}
+
+.form-group {
+  margin-bottom: 18px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #333;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #bbb;
+  transition: border 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-group input:focus {
+  border: 1px solid #007bff;
+  outline: none;
+  box-shadow: 0 0 6px rgba(0,123,255,0.4);
+}
+
+.login-btn {
+  width: 100%;
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: bold;
+  margin-top: 12px;
+  transition: all 0.3s ease;
+}
+
+.login-btn:hover {
+  background: linear-gradient(90deg, #501bb3, #1a5bd8);
+  transform: translateY(-2px);
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.back-option {
+  margin-top: 14px;
+  color: #007bff;
+  cursor: pointer;
+  font-size: 14px;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+
+.back-option:hover {
+  color: #0056b3;
+}
+ */

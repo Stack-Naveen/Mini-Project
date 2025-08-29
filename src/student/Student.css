@@ -1,0 +1,215 @@
+/* .student-dashboard {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+.student-dashboard h2 {
+  margin-bottom: 20px;
+}
+
+.student-info {
+  background: #f8f9fa;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.student-info p {
+  margin: 5px 0;
+}
+
+.student-actions {
+  margin-bottom: 20px;
+}
+
+.actions-grid {
+  display: flex;
+  gap: 15px;
+}
+
+.action-card {
+  flex: 1;
+  background: #3498db;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.action-card:hover {
+  background: #2980b9;
+}
+
+.student-notices ul {
+  list-style: none;
+  padding: 0;
+}
+
+.student-notices li {
+  background: #f1f1f1;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+
+.student-complaints {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+.complaint-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.complaint-form input,
+.complaint-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.complaint-form button {
+  background: #e67e22;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.complaint-form button:hover {
+  background: #d35400;
+}
+
+.complaints-list {
+  list-style: none;
+  padding: 0;
+}
+
+.complaints-list li {
+  background: #f9f9f9;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  border-left: 4px solid #e67e22;
+}
+
+
+
+
+.student-notices {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
+
+.notice-list {
+  list-style: none;
+  padding: 0;
+}
+
+.notice-list li {
+  background: #f9f9f9;
+  padding: 12px;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  border-left: 4px solid #27ae60;
+}
+
+.notice-list strong {
+  display: block;
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+  color: #2c3e50;
+}
+
+.notice-list small {
+  color: #7f8c8d;
+  font-size: 0.8rem;
+}
+
+
+.student-profile {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.08);
+}
+.profile-form {
+  max-width: 520px;
+}
+.profile-row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12px;
+}
+.profile-row label {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+.profile-row input {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}
+.btn-primary {
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background: #1d4ed8;
+}
+.admin-card { 
+  background: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.08);
+}
+.admin-form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+.admin-form-row input, .admin-form-row textarea {
+  padding: 10px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+}
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.admin-table th, .admin-table td {
+  border: 1px solid #e5e7eb;
+  padding: 10px;
+  text-align: left;
+}
+.btn-danger {
+  background: #ef4444;
+  color: #fff;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.btn-danger:hover { background: #dc2626; }
+ */
